@@ -15,3 +15,6 @@ function mult(a,b){
 function div(a,b){
 	return a/b
 };
+console.log("I'm going to use the calculator functions to multiply 5 and 6")
+var x = mult(5,6)
+console.log(x)
